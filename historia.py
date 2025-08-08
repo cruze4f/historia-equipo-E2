@@ -1,5 +1,6 @@
 print("Parte 1: Había una vez un grupo muy bueno de musica en mexico..")
 
+print("Parte 2: Que fueron invitados a una fiesta de Narcos")
 
-print("y terminaron en bolsas")#integrante 3
+print("Parte 3: y terminaron en bolsas")
 
